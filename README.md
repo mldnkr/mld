@@ -1,16 +1,27 @@
-### Milad here 👋
+# Hi there, I'm Milad 👋🏻
 
-<!--
-**miladcodes/miladcodes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Front End Developer living in Munich. I'm currently working on my coding courses and YouTube channel where I make coding and techy lifestyle stuff.
 
-Here are some ideas to get you started:
+## Current Projects <br/>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔥 bellendo - I'm currently designing and coding a WooCommerce website for a Munich based company which I'm going to be proud of.
+
+## My Values
+
+🧠 Thoughtful & Inclusive Development <br/>
+🖤 Authentic Expression <br/>
+💡 Mindset of Learning & Curiosity <br/>
+🙌 Teamwork & Communication
+
+## Hobbies
+
+🪙 Crypto Enthusiast <br/>
+📈 Finance Follower</br>
+🏋️ Gym Lover
+
+## Connect with Me
+
+- [Portfolio](https://www.miladcodes.com/) <br/>
+- [Linkedin](https://www.linkedin.com/in/miladcodes/) <br/>
+- [Twitter](https://twitter.com/miladcodes) <br/>
+- [YouTube](https://www.youtube.com/user/iamilad)
