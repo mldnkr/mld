@@ -24,4 +24,3 @@ I'm a Front End Developer living in Munich. I'm currently working on my coding c
 - [Portfolio](https://www.miladcodes.com/) <br/>
 - [Linkedin](https://www.linkedin.com/in/miladcodes/) <br/>
 - [Twitter](https://twitter.com/miladcodes) <br/>
-- [YouTube](https://www.youtube.com/user/iamilad)
