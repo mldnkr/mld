@@ -4,7 +4,7 @@ I'm a Front End Developer living in Munich. I'm currently working on my coding s
 
 ## Current Projects <br/>
 
-🔥 bellendo - I'm currently building a WooCommerce website for a Munich based company which I'm going to be proud of.
+> 🔥 bellendo - I'm currently building a WooCommerce website for a Munich based company which I'm going to be proud of.
 
 ## My Values
 
