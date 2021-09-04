@@ -1,6 +1,6 @@
 # Hi there, I'm Milad 👋🏻
 
-I'm a Front End Developer living in Munich. I'm currently working on my coding courses and YouTube channel where I make coding and techy lifestyle stuff.
+I'm a Front End Developer living in Munich. I'm currently working on my coding skills and building interesting projects.
 
 ## Current Projects <br/>
 
