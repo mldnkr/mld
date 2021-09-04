@@ -15,12 +15,11 @@ I'm a Front End Developer living in Munich. I'm currently working on my coding c
 
 ## Hobbies
 
-🪙 Crypto Enthusiast <br/>
+🪙 Crypto Investor <br/>
 📈 Finance Follower</br>
 🏋️ Gym Lover
 
 ## Connect with Me
 
 - [Portfolio](https://www.miladcodes.com/) <br/>
-- [Linkedin](https://www.linkedin.com/in/miladcodes/) <br/>
-- [Twitter](https://twitter.com/miladcodes) <br/>
+- [Dribbble](https://dribbble.com/miladcodes/) <br/>
