@@ -21,5 +21,5 @@ I'm a Front End Developer living in Munich. I'm currently working on my coding s
 
 ## Connect with Me
 
-- [Linkedin](https://www.linkedin.com/in/miladcodes/) <br/>
 - [Dribbble](https://dribbble.com/miladcodes/) <br/>
+- [Linkedin](https://www.linkedin.com/in/miladcodes/) <br/>
