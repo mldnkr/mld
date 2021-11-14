@@ -4,7 +4,7 @@ I'm a Front End Developer living in Munich. I'm currently working on my coding s
 
 ## Current Projects <br/>
 
-> 💸 Crypto World - I'm currently building a Crypto website on top of React/Redux
+> 💸 CryptoMil - I'm currently building a Crypto website on top of React/Redux
 
 ## My Values
 
